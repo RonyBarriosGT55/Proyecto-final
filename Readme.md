@@ -1,4 +1,5 @@
-Estructura sugerida para entrega:
+Video Youtube https://www.youtube.com/watch?v=hX5OyZqt5Qs&list=PLsMjcaKtrpRMzTLXVXV6pVdy9BfgVeoUb&index=1
+
 
 ```text
 /proyecto-final

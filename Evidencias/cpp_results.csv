@@ -1,0 +1,7 @@
+language,operation,structure,records,time_ms
+C++,insert,HashTable,10000,0.5362
+C++,search,HashTable,10000,0.0783
+C++,insert,AVL,10000,2.3881
+C++,traversal,AVL,10000,0.0365
+C++,bfs,Graph,10000,0.4459
+C++,dfs,Graph,10000,0.3972
